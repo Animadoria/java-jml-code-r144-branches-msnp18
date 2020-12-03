@@ -1,0 +1,6 @@
+Name            | Version
+--------------------------------------------------
+cindy.jar       | 2.4.4
+commons-logging | 1.1
+httpcore        | 4.0 beta2
+junit           | 4.4
